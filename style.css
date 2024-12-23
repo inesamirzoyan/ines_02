@@ -1,0 +1,82 @@
+.ban1{
+    background: blue;
+    width: 50px;
+    height: 50px;
+}
+
+.ban2{
+    background: red;
+    width: 90px;
+    height: 100px;
+}
+
+.ban3{
+    background: yellow;
+    width: 200px;
+    height: 200px;
+}
+
+.ban4{
+    background: red;
+    width: 400px;
+    height: 400px;
+}
+
+.ban5{
+    background: yellow;
+    width: 120px;
+    height: 120px;
+}
+
+.ban6{
+    background: blue;
+    width: 100px;
+    height: 100px;
+}
+
+.ban7{
+    background: skyblue;
+    width: 600px;
+    height: 450px;
+}
+
+.ban8{
+    background: green;
+    width: 500px;
+    height: 150px;
+}
+
+.ban9{
+    background: orange;
+    width: 300px;
+    height: 250px;
+}
+
+.ban10{
+    background: blue;
+    width: 80px;
+    height: 60px;
+}
+
+.miban1{
+    background: skyblue;
+    width: 800px;
+    height: 300px;
+}
+
+.ankap{
+    display: flex;
+}
+
+
+.miban2{
+    background: yellow;
+    width: 450px;
+    height: 250px;
+}
+
+.miban3{
+    background: gray;
+    width: 200px;
+    height: 250px;
+}
